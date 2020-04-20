@@ -1,10 +1,9 @@
 package com.example.demo;
 
-import com.example.demo.entity.Department;
-import com.example.demo.entity.Role;
-import com.example.demo.entity.User;
+import com.example.demo.jpa.entity.Department;
+import com.example.demo.jpa.entity.Role;
+import com.example.demo.jpa.entity.User;
 import com.example.demo.redis.repository.UserRedis;
-import com.sun.xml.internal.ws.policy.AssertionSet;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

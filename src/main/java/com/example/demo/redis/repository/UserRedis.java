@@ -1,6 +1,6 @@
 package com.example.demo.redis.repository;
 
-import com.example.demo.entity.User;
+import com.example.demo.jpa.entity.User;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import org.springframework.beans.factory.annotation.Autowired;

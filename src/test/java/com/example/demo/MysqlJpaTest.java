@@ -1,11 +1,11 @@
 package com.example.demo;
 
-import com.example.demo.entity.Department;
-import com.example.demo.entity.Role;
-import com.example.demo.entity.User;
-import com.example.demo.repository.DepartmentRepository;
-import com.example.demo.repository.RoleRepository;
-import com.example.demo.repository.UserRepository;
+import com.example.demo.jpa.entity.Department;
+import com.example.demo.jpa.entity.Role;
+import com.example.demo.jpa.entity.User;
+import com.example.demo.jpa.repository.DepartmentRepository;
+import com.example.demo.jpa.repository.RoleRepository;
+import com.example.demo.jpa.repository.UserRepository;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

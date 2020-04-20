@@ -1,4 +1,4 @@
-package com.example.demo.entity;
+package com.example.demo.jpa.entity;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import org.springframework.format.annotation.DateTimeFormat;
